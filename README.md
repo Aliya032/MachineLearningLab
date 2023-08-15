@@ -4,12 +4,14 @@ These are simle ML programs showing how different ML Algorithms work. The datase
 
 - All of these are executed in Jupyter Notebook
 
+**Repository Structure**
+
 ```
-Repository Structure
+
 
 Datasets
-|- car_data.csv
-|- Logistic_Iris.csv
+|_ car_data.csv
+|_ Logistic_Iris.csv
 
 Cluster Analysis
 |_ Agglomerative Clustering
@@ -18,7 +20,7 @@ Cluster Analysis
 Supervised Algorithms
 |_ Classification
     |_ Decision Tree
-    |_ K Neares Neighbors
+    |_ K Nearest Neighbors
     |_ Naive Bayes
     |_ Support Vector Machine
 |_ Regression
