@@ -8,8 +8,8 @@ These are simle ML programs showing how different ML Algorithms work. The datase
 Repository Structure
 
 Datasets
-|_ car_data.csv
-|_ Logistic_Iris.csv
+|- car_data.csv
+|- Logistic_Iris.csv
 
 Cluster Analysis
 |_ Agglomerative Clustering
